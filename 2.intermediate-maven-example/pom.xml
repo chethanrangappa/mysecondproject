@@ -58,3 +58,11 @@
 		</snapshotRepository>
 	</distributionManagement>
 </project>
+
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>ip-172-31-3-163.us-east-2.compute.internal-releases</name>
+        <url>http://18.219.26.141:8081/artifactory/libs-release</url>
+    </repository>
+</distributionManagement>
